@@ -1,0 +1,41 @@
+Maximum bridge load is 10 tons.
+Vehicle HIOFCR arrives at bridge.
+The current bridge load is 0 tons.
+Vehicle HIOFCR goes on bridge.
+The current bridge load is 1 tons.
+Vehicle STOL3N arrives at bridge.
+The current bridge load is 1 tons.
+Vehicle HIOFCR leaves the bridge.
+The current bridge load is 0 tons.
+Vehicle STOL3N goes on bridge.
+The current bridge load is 10 tons.
+Vehicle SHKSPR arrives at bridge.
+The current bridge load is 10 tons.
+Vehicle 2DIE4 arrives at bridge.
+The current bridge load is 10 tons.
+Vehicle BYOFCR arrives at bridge.
+The current bridge load is 10 tons.
+Vehicle VNTPL8 arrives at bridge.
+The current bridge load is 10 tons.
+Vehicle BADBOY arrives at bridge.
+The current bridge load is 10 tons.
+Vehicle STOL3N leaves the bridge.
+The current bridge load is 0 tons.
+Vehicle SHKSPR goes on bridge.
+The current bridge load is 1 tons.
+Vehicle 2DIE4 goes on bridge.
+The current bridge load is 2 tons.
+Vehicle BYOFCR goes on bridge.
+The current bridge load is 3 tons.
+Vehicle VNTPL8 goes on bridge.
+The current bridge load is 4 tons.
+Vehicle BADBOY goes on bridge.
+The current bridge load is 7 tons.
+Vehicle 2DIE4 leaves the bridge.
+The current bridge load is 6 tons.
+Vehicle VNTPL8 leaves the bridge.
+The current bridge load is 5 tons.
+Vehicle BADBOY leaves the bridge.
+The current bridge load is 2 tons.
+Vehicle BYOFCR leaves the bridge.
+The current bridge load is 1 tons.
