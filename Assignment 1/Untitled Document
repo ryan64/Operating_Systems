@@ -1,0 +1,2 @@
+g++ -Wall -o RyanGonzalez RyanGonzalez.cpp
+./RyanGonzalez < input01.txt
